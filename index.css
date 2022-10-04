@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+ }
+ .cal{
+     /* border: 2px solid black; */
+     border-radius: 20px;
+     height: 500px;
+     width: 418px;
+     position: absolute;
+     left: 38%;
+     background-color:cadetblue;
+     /* padding: 24px 0px; */
+     margin:53px auto;
+     
+ }
+ .cal h2{
+    font-size: 3rem;
+    text-align: center;
+    padding: 14px 0px;
+    color: white;
+}
+#screen{
+    height:80px ;
+    width: 370px;
+    border: none;
+    /* background-color: antiquewhite; */
+    font-size: 3em;
+    text-align:right;
+    padding: 14px;
+    margin: 0px 10px;
+    border-radius: 10px;
+    
+ }
+ 
+ 
+ button{
+    height: 50px;
+    width: 90px;
+    margin: 4px 6px;
+    /* padding-left: 8px; */
+    border-radius: 20px;
+    font-size: 1.7rem;
+    text-align: center;
+    background-color:rgb(26, 42, 42);
+    border: none; 
+    /* border: 2px solid black;  */
+    color: white;
+ }  
+ 
+ #eql{
+   background-color:floralwhite;
+    color:black;
+    border: none;
+ }
+ button:hover{
+    cursor: pointer;
+ }
